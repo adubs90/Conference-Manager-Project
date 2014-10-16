@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/112/trunk/ConferenceManager/src/Model
+END
+ConferenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/67/trunk/ConferenceManager/src/Model/ConferenceTest.java
+END
+Paper.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/111/trunk/ConferenceManager/src/Model/Paper.java
+END
+Author.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/53/trunk/ConferenceManager/src/Model/Author.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/110/trunk/ConferenceManager/src/Model/User.java
+END
+Reviewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/112/trunk/ConferenceManager/src/Model/Reviewer.java
+END
+PaperReview.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/50/trunk/ConferenceManager/src/Model/PaperReview.java
+END
+PaperSerialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/74/trunk/ConferenceManager/src/Model/PaperSerialization.java
+END
+SubprogramChair.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/106/trunk/ConferenceManager/src/Model/SubprogramChair.java
+END
+ProgramChair.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/108/trunk/ConferenceManager/src/Model/ProgramChair.java
+END
+PaperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/110/trunk/ConferenceManager/src/Model/PaperTest.java
+END
+TestAuthor.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/53/trunk/ConferenceManager/src/Model/TestAuthor.java
+END
+Conference.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/42/trunk/ConferenceManager/src/Model/Conference.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/15/trunk/ConferenceManager/src/Model/Role.java
+END
+ProgramChairTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/97/trunk/ConferenceManager/src/Model/ProgramChairTest.java
+END
+DatabaseManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/103/trunk/ConferenceManager/src/Model/DatabaseManager.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/115/trunk/ConferenceManager/src/View
+END
+SubChairPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/115/trunk/ConferenceManager/src/View/SubChairPanel.java
+END
+ReviewerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/109/trunk/ConferenceManager/src/View/ReviewerPanel.java
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/104/trunk/ConferenceManager/src/View/Account.java
+END
+LoginPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/114/trunk/ConferenceManager/src/View/LoginPanel.java
+END
+AuthorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/113/trunk/ConferenceManager/src/View/AuthorPanel.java
+END
+SubmitPaperFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/107/trunk/ConferenceManager/src/View/SubmitPaperFrame.java
+END
+MainWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/115/trunk/ConferenceManager/src/View/MainWindow.java
+END
+UserPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/95/trunk/ConferenceManager/src/View/UserPanel.java
+END
+AssignPapers.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/103/trunk/ConferenceManager/src/View/AssignPapers.java
+END
+ProgramChairPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/108/trunk/ConferenceManager/src/View/ProgramChairPanel.java
+END
